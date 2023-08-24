@@ -1,0 +1,14 @@
+{
+    "header": {
+        "S.no.": {"row":0,"col":0},
+        "Supplier Name":{"row":0,"col":0},
+        "Supplier VAT registration number":{"row":0,"col":0},
+        "Invoice No.": {"row":0,"col":0},
+        "Reference No": {"row":7,"col":0},
+        "Invoice Date": {"row":1,"col":0},
+        "Tax base amount": {"row":16,"col":0},
+        "Input tax": {"row":17,"col":0}, 
+        "Gross amount": {"row":18,"col":0}   
+    }
+    
+}           
